@@ -10,8 +10,8 @@ const Input = () => {
             <img src={Attach} alt="" />
             <input type="file" style={{display: 'none'}} id='file' />
             <label htmlFor="file">
-            </label>
                 <img src={Img} alt="" />
+            </label>
             <button>Send</button>
         </div>
     </div>
